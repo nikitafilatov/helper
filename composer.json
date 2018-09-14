@@ -1,0 +1,9 @@
+{
+  "name": "nikitafilatov/helper",
+  "description": "some package",
+
+  "autoload": {
+    "psr-4": {"Test\\": "src/"}
+  }
+
+}
