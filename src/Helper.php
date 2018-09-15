@@ -1,6 +1,6 @@
 <?php
 
-namespace Filatov\Filatovhelper;
+namespace Nikitafilatov\Helper;
 
 class Helper {
 

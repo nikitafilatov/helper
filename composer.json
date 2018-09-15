@@ -3,7 +3,7 @@
   "description": "some package",
 
   "autoload": {
-    "psr-4": {"Nikitafilatov\\Helper": "src/"}
+    "psr-4": {"Nikitafilatov\\Helper\\": "src/"}
   }
 
 }
